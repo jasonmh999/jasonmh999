@@ -1,4 +1,4 @@
-[Linkedin](https://www.linkedin.com/in/jasonmichaelhicks/
+[LinkedIn](https://www.linkedin.com/in/jasonmichaelhicks/
 
 <!--
 **jasonmh999/jasonmh999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
